@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://ediomojosedev.vercel.app/](https://ediomojosedev.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript,Nodejs, Express, MongoDB, GSAP, Bootstrap and Tailwind CSS**
+- 💬 Ask me about **HTML, CSS, JavaScript,Nodejs, Express, MongoDB, GSAP, Bootstrap, ReactJs and Tailwind CSS**
 
 - 📫 How to reach me **ediomojose.dev@gmail.com**
 
